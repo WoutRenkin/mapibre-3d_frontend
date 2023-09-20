@@ -1,0 +1,13 @@
+{
+  label: {
+    somethingWentWrong: 'Oops, er is iets misgegaan',
+    tryAgainAndOtherOptions: 'Probeer opnieuw met andere opties',
+    tryAgain: 'Probeer opnieuw',
+    errorDetails: 'Error details',
+    name: 'Naam',
+    message: 'Bericht',
+    stacktrace: 'Stacktrace',
+    loading: 'Laden...',
+  },
+  title: 'VITO',
+}

@@ -1,0 +1,12 @@
+{
+  label: {
+    somethingWentWrong: 'Oops, something went wrong',
+    tryAgainAndOtherOptions: 'Try again with other options',
+    errorDetails: 'Error details',
+    name: 'Name',
+    message: 'Message',
+    stacktrace: 'Stacktrace',
+    loading: 'Loading...',
+  },
+  title: 'VITO',
+}
